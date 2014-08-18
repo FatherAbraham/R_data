@@ -8,7 +8,9 @@ The objective of the project is to provide a summary dataset.  The data set show
 This repo contains the following:
 
 Codebook.txt          -   a code book explaining the contents of Tidy Data Set.csv
+
 run_analysis.R        -   script that produces the following file
+
 Tidy Data Set.csv     -   a Tidy Data Set
 
 
